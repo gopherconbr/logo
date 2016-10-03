@@ -1,1 +1,1 @@
-# logo
+# GopherCon Brasil Logo
